@@ -2,64 +2,130 @@
     body {
         
         font-family: Arial, sans-serif;
-        background-color: darkgray;
+        color: black;
+        background-color: grey;
+
+
         
-    
-    
     }
+
     
 
     
-    .container {
-        
-        padding-top: 2%;
-        font-size: 16px;
-        color: #333;
+      background{
+
+      
+background-image: url("trippy.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+width: 100%;
+height: 58%;
+top: 0;
+margin: auto;
+position: absolute;
+z-index: -4;
+opacity: 65%;
+
+
+
+
+      }
+       
+
+
+    #p45 
+    
+    
+    {
+
+   text-align: center;
+   font-size: 14px;
+   color:  darkgray;
+
+    }
+
+    
+    
+
+
+
+
+
+
+
+    h2 
+    
+    {
+        font-size: 20px;
+        color: black;
         text-align: center;
        
     }
+
+
+
+
+
+
+
+
+    h6 
     
-
-    
-
-
-
-    h2 {
-        font-size: 20px;
-        color: #333;
-        text-align: center;
-    }
-
-    h6 {
+    {
         font-style: italic;
         font-size: 20px;
-        color: #333;
+        color:black;
         text-align: center;
+        
     }
+
+ 
+
+
 
     h1 {
         
     
-        font-size: 25px;
-        padding-top: 5px;
+        font-size: 30px;
         padding-bottom: 5px;
         width: 50%;
         height: 50%;
-        margin:auto;
+        margin: auto;
+        margin-bottom: 70px;
         border-radius: 20px;
         color: black;
         text-align: center;
+        position: relative;
+        z-index: -1;
+    
+        
+
+      
     }
 
-    h3 {
+
+
+
+    h3 
+    
+    {
+
+
         padding-top: 2%;
         text-decoration: underline;
         font-size: 25px;
-        color: #333;
+        color:black;
         text-align: center;
+        
     }
+
+
+
+
     
-    p {
+    p
+    
+    {
         width: 90%;
         margin:auto;
         text-align: center;
@@ -68,48 +134,59 @@
         font-size: 20px;
         
     }
+
+
+
+
+
     
-
- 
-
-
-    .div  {
-margin-top: 30;    
-text-align: center;
-font-size: 1em;
-line-height: 1.6;
-
-    }
-
-
-    .linkpos  {
-
-    box-sizing: border-box;
-    margin-left: 10%;
-    margin-top: 28%;
-    
-    
-
-
-    }
-
-    .linkpost {
-
-
-box-sizing: border-box;
-width: auto;
-margin-bottom: 15px;
-text-align: center;
-font-size: 16px;
-color: blue;
-text-align: center;
-
-
-
-
-      }
+   #p3 
    
-      img {
+   {
+
+
+font-size: 30px;
+padding-top: 12px;
+text-align: center;
+color: black;
+font-weight: bolder;
+padding-top: 40px;
+margin-bottom: 40px;
+margin-top: 40px;
+position: relative;
+z-index: -2;
+
+
+
+   
+   }
+
+
+
+
+
+    .p456 {
+
+        box-sizing: border-box;
+        width: auto;
+        text-align: center;
+        font-size: 16px;
+        color: blue;
+            border: 2px black;
+    width: auto;
+    margin-bottom: 13px;
+    
+        
+
+    }
+
+
+
+
+
+
+   
+      .img1 {
 
 border-radius: 50%;
 height: 200px;
@@ -117,20 +194,48 @@ width: 200px
     
       }
 
+
+
+
+      .linkpos  {
+
+    
+        border: 2px black;
+        border-width: 50%;
+        padding-block: 20 px;
+        padding-bottom: 20px;
+        text-align: center;
+        width: 50%;
+        margin: auto;
+        
+      }
+
+
       .linksbox {
 
-size-adjust: 50%;
+
 width: 35%;
-float: left;
-margin-left:10%;
-margin-top: 2%;  
+align-content: center ;
+margin: auto;
+z-index: 2;
+margin-bottom:70px;
 text-align: center;
 font-size: 16px;
 line-height: 1.6;
-padding-bottom: 10%;
+
+    }
+
+#footer {
+
+    padding-block: 15px;
+    width: 100%;
+   font-size: 14px;
+background-color: rgba(0, 0, 0, 0.799);
+opacity: 20%;
+position: absolute;
+margin-top: 130px;
+z-index: -99;
 
 
-       
+}
 
-              }
-           
