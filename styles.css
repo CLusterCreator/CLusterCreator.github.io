@@ -196,29 +196,6 @@ p
 /* discription pages */
 
 
-.discriptionhp
-
-
-{
-
-
-width: 35%;
-align-content: center ;
-margin:auto;
-z-index: 2;
-margin-bottom:130px;
-margin-top: 75px;
-text-align: center;
-font-size: 18px;
-line-height: 1.6;
-
-
-    
-
-}
-
-
-
 
 
 .discription 
@@ -255,13 +232,37 @@ z-index: 2;
 margin-bottom:130px;
 margin-top: 75px;
 text-align: center;
-font-size: 20px;
+font-size: 18px;
 line-height: 1.6;
 float: left;
 padding-left: 120px;
 
 
 }
+
+
+.discriptionhp
+
+
+{
+
+
+width: 35%;
+align-content: center ;
+margin:auto;
+z-index: 2;
+margin-bottom:130px;
+margin-top: 75px;
+text-align: center;
+font-size: 18px;
+line-height: 1.6;
+
+
+    
+
+}
+
+
 
 
 .discription2
@@ -323,7 +324,7 @@ margin: left;
 z-index: 2;
 margin-bottom:130px;
 padding-left: 11%;
-padding-top: 330px;
+padding-top: 250px;
 text-align: center;
 font-size: 18px;
 line-height: 1.6;
@@ -392,6 +393,28 @@ margin: left;
 z-index: 2;
 padding-left: 11%;
 padding-top: 40px;
+text-align: center;
+font-size: 18px;
+line-height: 1.6;
+
+
+
+}
+
+
+.discription8
+
+
+{
+
+
+width: 35%;
+align-content: center ;
+margin: left;
+z-index: 2;
+margin-bottom:130px;
+padding-left: 11%;
+padding-top: 280px;
 text-align: center;
 font-size: 18px;
 line-height: 1.6;
