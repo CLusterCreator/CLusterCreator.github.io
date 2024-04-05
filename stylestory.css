@@ -238,20 +238,44 @@ float: left;
 }
 
 
+
+
 .discription3
 
 
 {
 
 
-width: 40%;
+width: 35%;
 align-content: center ;
 margin: left;
 z-index: 2;
 margin-bottom:130px;
-margin-top: 25px;
-padding-left: 6%;
-padding-top: 7%;
+padding-left: 11%;
+padding-top: 75px;
+text-align: center;
+font-size: 18px;
+line-height: 1.6;
+
+
+
+}
+
+
+.discription4
+
+
+{
+
+
+width: 35%;
+align-content: center ;
+margin: left;
+z-index: 2;
+margin-bottom:130px;
+
+padding-left: 11%;
+padding-top: 210px;
 text-align: center;
 font-size: 18px;
 line-height: 1.6;
